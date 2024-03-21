@@ -1,0 +1,63 @@
+@charset "utf-8";
+.Titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: oblique;
+	font-weight: bold;
+	color: #C00;
+}
+.SUBTITULOS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	color: #C60;
+}
+.CONTENIDO {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #000;
+}
+.Importantes {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #099;
+}
+.DOCENTES {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	color: #F6F;
+}
+.Estudiantes {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #063;
+}
+.Subn {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: oblique;
+	line-height: normal;
+	font-weight: bolder;
+	color: #F00;
+}
+.Profesores {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #06F;
+}

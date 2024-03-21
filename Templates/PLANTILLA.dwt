@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<link href="../Estilos/EXAMNE.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	background-color: #F2E1CE;
+}
+</style>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="734" height="521" border="2" align="center">
+  <tr>
+    <td height="205" colspan="2" valign="top"><p><img src="../imagenes}/nex.png" width="707" height="163" usemap="#Map" border="0" /></p>
+    <p class="Titulo"><a href="../index.html">INICIO</a> <a href="../Ofertas.HTML">OFERTAS</a> <a href="../Docentes.HTML">DOCENTES</a> <a href="../Alumnos.HTML">ALUMNOS</a></p></td>
+  </tr>
+  <tr>
+    <td width="182" height="174" valign="top"><!-- TemplateBeginEditable name="Edit1" -->
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    <!-- TemplateEndEditable --></td>
+    <td width="534" valign="top"><!-- TemplateBeginRepeat name="Repe1" --><!-- TemplateBeginEditable name="Edit2" --><!-- TemplateEndEditable --><!-- TemplateEndRepeat --></td>
+  </tr>
+  <tr>
+    <td height="130" colspan="2" align="center" valign="top"><p>Dirreccion:Panamericana Sur Km 2 1/2 via Cayambe - El Quinche, Cayambe, Ecuador</p>
+    <p>Telf: 0958961231-200-2056-12</p>
+    <p>uecayambe@gmail.com</p>
+    <p>Elaborado por:Samuel Quinatoa-Deivid Plaza</p></td>
+  </tr>
+</table>
+<p class="CONTENIDO">&nbsp;</p>
+<p>&nbsp;</p>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="41,32,130,144" href="../index.html" target="../INICIO" />
+  <area shape="rect" coords="211,43,556,79" href="../Ofertas.HTML" />
+  <area shape="rect" coords="266,94,510,117" href="../Alumnos.HTML" />
+  <area shape="rect" coords="599,25,691,149" href="../Docentes.HTML" />
+</map>
+</body>
+</html>
